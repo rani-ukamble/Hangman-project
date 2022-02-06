@@ -1,10 +1,10 @@
 
 //RANI UTTAM KAMBLE.
-//SY B. TECH
 //20141157
-//BATCH- I4
+//SY B.TECH
+//Semester III
 
-//HANGMAN GAME PROJECT 
+//C++ HANGMAN GAME PROJECT 
 
 #include <iostream>
 #include <vector>
